@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelAppAwsLambda", "HotelAppAwsLambda\HotelAppAwsLambda.csproj", "{5ACCAA62-7C95-424B-808F-EFBFE26E3DF8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CC8A1FDF-F59D-47A8-BD8F-2B6A5D0E3CA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ACCAA62-7C95-424B-808F-EFBFE26E3DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACCAA62-7C95-424B-808F-EFBFE26E3DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACCAA62-7C95-424B-808F-EFBFE26E3DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACCAA62-7C95-424B-808F-EFBFE26E3DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5ACCAA62-7C95-424B-808F-EFBFE26E3DF8} = {CC8A1FDF-F59D-47A8-BD8F-2B6A5D0E3CA1}
+	EndGlobalSection
+EndGlobal
